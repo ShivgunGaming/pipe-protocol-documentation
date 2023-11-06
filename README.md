@@ -1,5 +1,9 @@
 # PIPE | DMT Introduction
 
+
+![pipe](https://github.com/ShivgunGaming/pipe-protocol/assets/102505925/d834aa5a-f513-481e-a1e1-611628cc668d)
+
+
 PIPE is a unique system for managing Bitcoin-native tokens. It draws inspiration from concepts like RUNES and BRC-20, with the aim of combining their strengths.
 
 ## Key Functions: Deploy, Mint & Transfer
